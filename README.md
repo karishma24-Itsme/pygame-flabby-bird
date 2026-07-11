@@ -1,2 +1,54 @@
-# pygame-flabby-bird
-A classic Flappy Bird game built with Python and Pygame, featuring smooth controls, dynamic obstacles, collision detection, score tracking, and engaging gameplay.
+# 🐦 Flappy Bird Game
+
+A classic Flappy Bird game developed in *Python* using *Pygame*. The player controls a bird, avoids obstacles, and aims to achieve the highest score through smooth and engaging gameplay.
+
+## ✨ Features
+
+- Smooth bird movement
+- Random pipe generation
+- Collision detection
+- Score tracking
+- Game Over screen
+- Restart functionality
+- Pixel-art graphics
+- Easy keyboard controls
+
+## 🛠️ Technologies Used
+
+- Python
+- Pygame
+
+## 🚀 Installation
+
+bash
+git clone https://github.com/karishma24-Itsme/flappy-bird-game.git
+cd flappy-bird-game
+pip install pygame
+python main.py
+
+
+## 🎮 Controls
+
+- *Spacebar* – Fly
+- Avoid the pipes and survive as long as possible.
+
+## 📸 Preview
+
+![Flappy Bird Preview](preview.jpg)
+
+## 📂 Project Structure
+
+
+flappy-bird-game/
+├── assets/
+├── main.py
+├── preview.jpg
+├── requirements.txt
+└── README.md
+
+
+## 👩‍💻 Author
+
+*Karishma Salian*
+
+⭐ If you like this project, don't forget to star the repository!
