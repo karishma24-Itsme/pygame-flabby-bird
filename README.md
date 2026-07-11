@@ -41,7 +41,7 @@ pip install -r requirements.txt
 4. Run the game:
 ```
 bash
-python Flabby_bird.py
+python Flappy_bird.py
 
 ```
 ## 🎮 Controls
