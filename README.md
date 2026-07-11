@@ -19,12 +19,29 @@ A classic Flappy Bird game developed in *Python* using *Pygame*. The player cont
 - Pygame
 
 ## 🚀 Installation
+
+1. Clone the repository:
 ```
 bash
-git clone https://github.com/karishma24-Itsme/flappy-bird-game.git
-cd flappy-bird-game
-pip install pygame
-python main.py
+git clone https://github.com/karishma24-Itsme/pygame-flappy-bird.git
+```
+
+2. Navigate to the project folder:
+```
+bash
+cd pygame-flappy-bird
+```
+
+3. Install the required dependencies:
+```
+bash
+pip install -r requirements.txt
+```
+
+4. Run the game:
+```
+bash
+python Flabby_bird.py
 
 ```
 ## 🎮 Controls
