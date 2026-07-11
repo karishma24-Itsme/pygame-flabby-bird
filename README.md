@@ -34,7 +34,7 @@ python main.py
 
 ## 📸 Preview
 
-![Flappy Bird Preview](preview.jpg)
+![Flappy Bird Preview](https://github.com/karishma24-Itsme/pygame-flabby-bird/blob/main/Flappy%20bird%20game/imgs/preview.jpg)
 
 ## 👩‍💻 Author
 
