@@ -19,14 +19,14 @@ A classic Flappy Bird game developed in *Python* using *Pygame*. The player cont
 - Pygame
 
 ## 🚀 Installation
-
+```
 bash
 git clone https://github.com/karishma24-Itsme/flappy-bird-game.git
 cd flappy-bird-game
 pip install pygame
 python main.py
 
-
+```
 ## 🎮 Controls
 
 - *Spacebar* – Fly
@@ -35,17 +35,6 @@ python main.py
 ## 📸 Preview
 
 ![Flappy Bird Preview](preview.jpg)
-
-## 📂 Project Structure
-
-
-flappy-bird-game/
-├── assets/
-├── main.py
-├── preview.jpg
-├── requirements.txt
-└── README.md
-
 
 ## 👩‍💻 Author
 
